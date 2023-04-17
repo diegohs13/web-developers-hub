@@ -24,6 +24,11 @@ header, section, footer{
     width: 100%;
     max-width: 600px;
 }
+#imagem-perfil-2{
+    width: 100%;
+    max-width: 200px;
+    margin-left: 40%;
+}
 .button{
     background-color: blue;
     color: white;
@@ -32,4 +37,26 @@ header, section, footer{
     display: inline-block;
     text-decoration: none;
     border-radius: 0.5em;
+}
+.button-2{
+    background-color: white;
+    color: black;
+    padding: 1em;
+    margin: 1em 0;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 1em;
+}
+.nome{
+    color: white;
+    margin-left: 41%;
+}
+.fundo{
+    background-color: black;
+}
+.texto{
+    color: white;
+}
+.texto h1{
+    margin-left: 38%;
 }
